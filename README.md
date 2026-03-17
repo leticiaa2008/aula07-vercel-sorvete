@@ -1,1 +1,1 @@
-# aula07-vercel-sorvete
+# java-sorvete-server
